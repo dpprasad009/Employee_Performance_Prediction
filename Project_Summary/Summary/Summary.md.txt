@@ -1,0 +1,21 @@
+# Summary & Recommendations – INX Future Inc.
+
+## Insights:
+- Top 3 important features:
+  1. EmpLastSalaryHikePercent
+  2. EmpEnvironmentSatisfaction
+  3. YearsSinceLastPromotion
+
+- Department-wise performance:
+  - Sales and Finance are underperforming.
+  - Development and Data Science have the highest average ratings.
+
+- Model Accuracy:
+  - Final model (Random Forest): 92.5% accuracy on test data.
+
+## Recommendations:
+1. Revisit salary hike policy — tie it closely to performance.
+2. Improve environment satisfaction (especially in Sales & Finance).
+3. Offer faster promotion tracks to high-performing but long-wait employees.
+4. Use the predictive model during recruitment to hire high-performing talent.
+

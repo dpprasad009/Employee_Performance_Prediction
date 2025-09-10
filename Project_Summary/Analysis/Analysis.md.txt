@@ -1,0 +1,24 @@
+# Analysis – INX Future Inc. Employee Performance
+
+## Data Processing
+- Checked for missing values.
+- Encoded categorical variables (e.g., Gender, OverTime).
+- Created dummy variables for department and education fields.
+
+## Feature Engineering
+- Feature importances were calculated using Random Forest.
+- Created a new feature: experience_ratio = ExperienceYearsAtThisCompany / TotalWorkExperienceInYears
+
+## Model Selection
+We trained and compared the following models:
+- Logistic Regression
+- Decision Tree
+- Support Vector Machine (SVM)
+- Random Forest (Selected for final model due to best performance)
+
+## Evaluation Metrics
+- Accuracy
+- Precision, Recall, F1-score
+- Confusion Matrix
+
+Random Forest performed the best with 92.5% accuracy.

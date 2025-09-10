@@ -1,0 +1,12 @@
+# Requirement – INX Future Inc.
+INX Future Inc. is experiencing declining employee performance, which is affecting client satisfaction and business growth.
+
+## Business Objective
+1. Identify which departments are performing well or poorly.
+2. Find the most important factors affecting employee performance.
+3. Build a machine learning model that predicts future employee performance based on input features.
+4. Provide clear recommendations to improve employee performance.
+
+## Dataset
+An anonymized employee dataset provided by IABAC. It contains demographic, work history, and performance-related features.
+
